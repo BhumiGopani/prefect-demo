@@ -27,3 +27,6 @@ https://docs.prefect.io/
 
 For screenshots:
 https://docs.google.com/document/d/1eaBMB-sYBNJJP9UVSqDYBJrNF6ZNN7ts-icWrjY7N8Y/edit
+
+Prefect Version:
+prefect                 0.12.6
