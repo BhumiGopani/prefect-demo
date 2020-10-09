@@ -17,6 +17,9 @@ See the UI hosted under:
 Activate the agent:
 `prefect agent start`
 
+Create the preoject (for the first time its needed):
+`prefect create project "mongoetlflow" --description "My description"`
+
 See the configuration under `config.toml` file
 
 Reference Video:
